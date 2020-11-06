@@ -6,7 +6,7 @@ I'm a French web developer based in Brussels, currently working on **Salesforce*
 - 🌱 I’m currently learning Java
 
 - 💬 You can contact me at <me@oscarmarion.dev>
-- ⚡ or give a look to [oscarmarion.dev](oscarmarion.dev)
+- ⚡ or give a look to [oscarmarion.dev](https://oscarmarion.dev)
 
 <!--
 **oscar-marion/oscar-marion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
